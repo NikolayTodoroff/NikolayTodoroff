@@ -7,10 +7,15 @@ Cloud Engineer | Azure | Terraform | DevOps
 [![Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-HCTA0--004-purple?logo=terraform)](https://www.credly.com/badges/73725fb5-2873-440b-a390-4039633c5acf/public_url)
 
 ## Tech Stack
-- **Cloud:** Microsoft Azure
-- **IaC:** Terraform, Bicep
-- **Languages:** C#, HCL
-- **Tools:** Azure DevOps, GitHub Actions, Terraform
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
-- [ASP.NET Azure Deployment]((https://github.com/NikolayTodoroff/IPNoticeHub.Web)) — App Service + SQL + Key Vault via Bicep
+- [ASP.NET Azure Deployment](https://github.com/NikolayTodoroff/IPNoticeHub.Web) — App Service + SQL + Key Vault via Bicep
+- [IPNoticeHub Azure DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-azure-devops-infra) — Terraform infrastructure and Azure DevOps CI/CD pipelines with multi-environment deployment, staging slots, zero-downtime swap, SonarCloud, Snyk, and Coverlet
