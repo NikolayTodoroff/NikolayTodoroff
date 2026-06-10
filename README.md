@@ -17,6 +17,8 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
-- [ASP.NET Azure Deployment](https://github.com/NikolayTodoroff/IPNoticeHub.Web) — App Service + SQL + Key Vault via Bicep
-- [IPNoticeHub Azure DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-azure-devops-infra) — Terraform infrastructure and Azure DevOps CI/CD pipelines with multi-environment deployment, staging slots, zero-downtime swap, SonarCloud, Snyk, and Coverlet
+- [IPNoticeHub Containerized DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-containerized-devops) — Terraform-built infrastructure and Azure DevOps CI/CD pipelines delivering containerized multi-environment deployments to Azure App Service via ACR, with staging slots, zero-downtime swaps, SonarCloud, Snyk, Coverlet, and Trivy image scanning
 - [IPNoticeHub Github Actions Infra](https://github.com/NikolayTodoroff/ipnoticehub-github-actions-infra) — Terraform-built infrastructure and GitHub Actions CI/CD workflows delivering multi-environment deployments, staging slots, seamless swaps, SonarCloud, Snyk, and Coverlet
+- [IPNoticeHub Azure DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-azure-devops-infra) — Terraform infrastructure and Azure DevOps CI/CD pipelines with multi-environment deployment, staging slots, zero-downtime swap, SonarCloud, Snyk, and Coverlet
+- [ASP.NET Azure Deployment](https://github.com/NikolayTodoroff/IPNoticeHub.Web) — App Service + SQL + Key Vault via Bicep
+
