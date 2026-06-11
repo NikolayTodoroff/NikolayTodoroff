@@ -17,6 +17,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
+- [Nginx Containerized Github Actions Infra](https://github.com/NikolayTodoroff/nginx-containerized-actions-infra) — Terraform modules and GitHub Actions reusable workflows delivering containerized multi-environment deployments to Azure App Service via ACR, with staging slots, matrix strategy validation, Checkov IaC scanning, and Trivy image scanning.
 - [IPNoticeHub Containerized DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-containerized-devops) — Terraform-built infrastructure and Azure DevOps CI/CD pipelines delivering containerized multi-environment deployments to Azure App Service via ACR, with staging slots, zero-downtime swaps, SonarCloud, Snyk, Coverlet, and Trivy image scanning
 - [IPNoticeHub Github Actions Infra](https://github.com/NikolayTodoroff/ipnoticehub-github-actions-infra) — Terraform-built infrastructure and GitHub Actions CI/CD workflows delivering multi-environment deployments, staging slots, seamless swaps, SonarCloud, Snyk, and Coverlet
 - [IPNoticeHub Azure DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-azure-devops-infra) — Terraform infrastructure and Azure DevOps CI/CD pipelines with multi-environment deployment, staging slots, zero-downtime swap, SonarCloud, Snyk, and Coverlet
