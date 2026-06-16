@@ -17,6 +17,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
+- [Notification API Github Actions Infra](https://github.com/NikolayTodoroff/notification-api-functions-actions-infra) — Terraform-provisioned Azure Functions and GitHub Packages-based NuGet versioning, with reusable GitHub Actions workflows for zip deployment, CodeQL scanning, App Configuration feature flags, and issue-driven release management.
 - [Nginx Container Apps Github Actions Infra](https://github.com/NikolayTodoroff/nginx-container-apps-actions-infra) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure Container Apps deployments, featuring canary releases, KEDA autoscaling, policy-as-code, SRE monitoring, and DevSecOps scanning.
 - [Nginx Containerized Github Actions Infra](https://github.com/NikolayTodoroff/nginx-containerized-actions-infra) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure App Service deployments, featuring ACR-based container releases, staging slots, matrix validation, and DevSecOps scanning.
 - [IPNoticeHub Containerized DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-containerized-devops) — Terraform-built infrastructure and Azure DevOps CI/CD pipelines for multi-environment Azure App Service deployments, featuring ACR-based container releases, staging slots, zero-downtime swaps, and DevSecOps scanning.
