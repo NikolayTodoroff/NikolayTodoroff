@@ -17,6 +17,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
+- [VM Scale Set Web Tier Azure Devops Infra](https://github.com/NikolayTodoroff/vmss-azure-devops-infra) — Terraform-provisioned Linux VM Scale Set behind a Standard Load Balancer, with Bastion and NAT Gateway networking, deployed via a multi-stage Azure DevOps pipeline featuring a self-hosted production agent, Azure Artifacts package publishing, and Azure Boards-driven work tracking.
 - [Notification API Github Actions Infra](https://github.com/NikolayTodoroff/notification-api-functions-actions-infra) — Terraform-provisioned Azure Functions and GitHub Packages-based NuGet versioning, with reusable GitHub Actions workflows for zip deployment, CodeQL scanning, App Configuration feature flags, and issue-driven release management.
 - [Nginx Container Apps Github Actions Infra](https://github.com/NikolayTodoroff/nginx-container-apps-actions-infra) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure Container Apps deployments, featuring canary releases, KEDA autoscaling, policy-as-code, SRE monitoring, and DevSecOps scanning.
 - [Nginx Containerized Github Actions Infra](https://github.com/NikolayTodoroff/nginx-containerized-actions-infra) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure App Service deployments, featuring ACR-based container releases, staging slots, matrix validation, and DevSecOps scanning.
