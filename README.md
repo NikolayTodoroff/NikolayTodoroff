@@ -17,6 +17,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
+- [AKS Canary Azure Devops Infra](https://github.com/NikolayTodoroff/aks-canary-github-actions-infra) — Terraform‑provisioned Azure Kubernetes Service (AKS) environment with Azure Container Registry integration, deployed through a multi‑stage GitHub Actions pipeline using Helm for application release orchestration.
 - [Kubernetes Voting App Azure Devops Infra](https://github.com/NikolayTodoroff/kubernetes-azure-voting-app) — Terraform‑provisioned Azure Kubernetes Service (AKS) cluster with Azure Container Registry integration, deployed via a multi‑stage Azure DevOps pipeline using Helm, kubelogin, and OIDC‑based authentication.
 - [VM Scale Set Web Tier Azure Devops Infra](https://github.com/NikolayTodoroff/vmss-azure-devops-infra) — Terraform-provisioned Linux VM Scale Set behind a Standard Load Balancer, with Bastion and NAT Gateway networking, deployed via a multi-stage Azure DevOps pipeline featuring a self-hosted production agent, Azure Artifacts package publishing, and Azure Boards-driven work tracking.
 - [Notification API Github Actions Infra](https://github.com/NikolayTodoroff/notification-api-functions-actions-infra) — Terraform-provisioned Azure Functions and GitHub Packages-based NuGet versioning, with reusable GitHub Actions workflows for zip deployment, CodeQL scanning, App Configuration feature flags, and issue-driven release management.
