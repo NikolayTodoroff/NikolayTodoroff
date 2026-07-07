@@ -25,6 +25,5 @@ Cloud Engineer | Azure | Terraform | DevOps
 - [Nginx Containerized Github Actions Infra](https://github.com/NikolayTodoroff/nginx-containerized-actions-infra) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure App Service deployments, featuring ACR-based container releases, staging slots, matrix validation, and DevSecOps scanning.
 - [IPNoticeHub Containerized DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-containerized-devops) — Terraform-built infrastructure and Azure DevOps CI/CD pipelines for multi-environment Azure App Service deployments, featuring ACR-based container releases, staging slots, zero-downtime swaps, and DevSecOps scanning.
 - [IPNoticeHub Github Actions Infra](https://github.com/NikolayTodoroff/ipnoticehub-github-actions-infra) — Terraform-built infrastructure and GitHub Actions CI/CD workflows delivering multi-environment deployments, staging slots, seamless swaps, SonarCloud, Snyk, and Coverlet
-- [IPNoticeHub Azure DevOps Infra](https://github.com/NikolayTodoroff/ipnoticehub-azure-devops-infra) — Terraform infrastructure and Azure DevOps CI/CD pipelines with multi-environment deployment, staging slots, zero-downtime swap, SonarCloud, Snyk, and Coverlet
 - [ASP.NET Azure Deployment](https://github.com/NikolayTodoroff/IPNoticeHub.Web) — App Service + SQL + Key Vault via Bicep
 
