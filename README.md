@@ -18,7 +18,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
-- [AKS Canary Azure Devops Infra](https://github.com/NikolayTodoroff/aks-canary-github-actions) — Terraform‑provisioned Azure Kubernetes Service (AKS) environment with Azure Container Registry integration, deployed through a multi‑stage GitHub Actions pipeline using Helm for application release orchestration.
+- [AKS Canary Github Actions](https://github.com/NikolayTodoroff/aks-canary-github-actions) — Terraform‑provisioned Azure Kubernetes Service (AKS) environment with Azure Container Registry integration, deployed through a multi‑stage GitHub Actions pipeline using Helm for application release orchestration.
 - [Container Apps Github Actions Infra](https://github.com/NikolayTodoroff/container-apps-nginx-actions) — Terraform modules and reusable GitHub Actions workflows for multi-environment Azure Container Apps deployments, featuring canary releases, KEDA autoscaling, policy-as-code, SRE monitoring, and DevSecOps scanning.
 - [Notification API Github Actions Infra](https://github.com/NikolayTodoroff/notification-api-functions-actions) — Terraform-provisioned Azure Functions and GitHub Packages-based NuGet versioning, with reusable GitHub Actions workflows for zip deployment, CodeQL scanning, App Configuration feature flags, and issue-driven release management.
 - [Nginx Containerized Actions](https://github.com/NikolayTodoroff/nginx-containerized-actions) — Terraform-provisioned containerized Nginx static site deployed to Azure App Service with GitHub Actions, OIDC federated credentials, reusable workflows, matrix strategy, and zero-downtime staging slot deployments across dev and prod environments.
