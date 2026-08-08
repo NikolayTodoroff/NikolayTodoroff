@@ -18,6 +18,7 @@ Cloud Engineer | Azure | Terraform | DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projects
+- [VMSS Self-Hosted Agent-Infra](https://github.com/NikolayTodoroff/vmss-selfhosted-agent-infra) — VMSS behind a Standard Load Balancer with Bastion, NAT, autoscale, and a self‑hosted DevOps agent — delivered through multi‑stage pipelines with approvals and Boards tracking.
 - [IPNoticeHub WebApp Github Actions](https://github.com/NikolayTodoroff/IPNoticeHub.Web) — ASP.NET Core app deployed to Azure App Service with Terraform and GitHub Actions, including custom domain setup, staging slot swaps, Checkov, TFLint, and code coverage.
 - [AKS Canary Github Actions](https://github.com/NikolayTodoroff/aks-canary-github-actions) — Terraform-provisioned AKS deployment with ACR integration, multi-stage GitHub Actions, Helm releases, and canary rollout strategy.
 - [Container Apps Github Actions Infra](https://github.com/NikolayTodoroff/container-apps-nginx-actions) — Azure Container Apps infrastructure with Terraform modules, reusable GitHub Actions workflows, canary releases, KEDA autoscaling, monitoring, and security scanning.
