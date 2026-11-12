@@ -2,6 +2,7 @@
 Cloud Engineer | Azure | Terraform | DevOps
 
 ## Certifications
+[![LFCS](https://img.shields.io/badge/LFCS-Linux%20Foundation%20Certified%20SysAdmin-FCC624?logo=linux&logoColor=black)](https://training.linuxfoundation.org/certification/verify-linux-certifications/)
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/NikolayTodorov-1894/9E514F9DA9B8AFEF?sharingId=F5A36897477377F0)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/NikolayTodorov-1894/A6084F44D1F3AD60?sharingId=F5A36897477377F0)
 [![AZ-400](https://img.shields.io/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=flat&labelColor=555)](https://learn.microsoft.com/api/credentials/share/en-us/NikolayTodorov-1894/F18CD46E104E2F8D?sharingId=F5A36897477377F0)
